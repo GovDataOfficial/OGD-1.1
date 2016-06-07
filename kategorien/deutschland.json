@@ -1,0 +1,16 @@
+{
+  "bevoelkerung": "Bevölkerung", 
+  "bildung_wissenschaft": "Bildung und Wissenschaft", 
+  "geo": "Geographie, Geologie und Geobasisdaten", 
+  "gesetze_justiz": "Gesetze und Justiz", 
+  "gesundheit": "Gesundheit", 
+  "infrastruktur_bauen_wohnen": "Infrastruktur, Bauen und Wohnen", 
+  "kultur_freizeit_sport_tourismus": "Kultur, Freizeit, Sport und Tourismus", 
+  "politik_wahlen": "Politik und Wahlen", 
+  "soziales": "Soziales", 
+  "transport_verkehr": "Transport und Verkehr", 
+  "umwelt_klima": "Umwelt und Klima",
+  "verbraucher": "Verbraucherschutz", 
+  "verwaltung": "Öffentliche Verwaltung, Haushalt und Steuern", 
+  "wirtschaft_arbeit": "Wirtschaft und Arbeit"
+}
