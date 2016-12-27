@@ -14,6 +14,6 @@ Relevante Links zur CKAN-Dokumentation:
  
 [ogdm-html]: http://htmlpreview.github.io/?https://github.com/fraunhoferfokus/ogd-metadata/blob/master/OGPD_JSON_Schema.html
 [ogdm-blog]: http://open-data.fokus.fraunhofer.de/?p=643
-[ckan-dm]: http://docs.ckan.org/en/ckan-1.8/domain-model.html
-[ckan-lc]:  https://github.com/okfn/ckan/blob/master/ckan/logic/schema.py
+[ckan-dm]: http://docs.ckan.org/en/ckan-1.7.4/domain-model.html
+[ckan-lc]:  https://github.com/okfn/ckan/blob/master/ckan/logic/schema.py
  
