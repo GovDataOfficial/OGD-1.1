@@ -7,12 +7,7 @@ Metadata structure and documentation to be used by the German Open Government Pl
 Die Idee hinter der OGD Metadaten-Struktur ist [im Blog beschrieben][ogdm-blog].
 
 Es existiert eine [lesbare HTML Ansicht][ogdm-html].
-
-Relevante Links zur CKAN-Dokumentation:
- * [Domain Model][ckan-dm]
- * [CKAN Logic Code][ckan-lc]
  
 [ogdm-html]: http://htmlpreview.github.io/?https://github.com/fraunhoferfokus/ogd-metadata/blob/master/OGPD_JSON_Schema.html
 [ogdm-blog]: http://open-data.fokus.fraunhofer.de/?p=643
-[ckan-dm]: http://docs.ckan.org/en/ckan-1.7.4/domain-model.html
-[ckan-lc]:  https://github.com/okfn/ckan/blob/master/ckan/logic/schema.py
+
