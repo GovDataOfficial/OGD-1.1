@@ -248,7 +248,7 @@
             "type": {
               "type": "string",
               "description": "Art der Form: Hier ist zunächst nur Polygon vorgesehen, andere waeren vorstellbar.",
-              "enum": ["polygon"]
+              "enum": ["Polygon"]
             }, 
             "coordinates": {
               "type": "array",
